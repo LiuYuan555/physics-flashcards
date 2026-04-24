@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Physics Flashcards — Definition Revision</title>
+  <meta name="description" content="Interactive flashcard app for revising physics definitions, organised by chapter. Flip cards to test your knowledge." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <!-- Sidebar -->
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <h1 class="logo">⚛️ PhysCards</h1>
+      <p class="logo-sub">Definition Revision</p>
+    </div>
+    <nav id="chapter-nav" class="chapter-nav" aria-label="Chapters"></nav>
+    <div class="sidebar-footer">
+      <button id="shuffle-btn" class="btn btn-ghost" title="Shuffle cards">
+        🔀 Shuffle
+      </button>
+      <div class="progress-global">
+        <div class="progress-global-label">
+          <span>Overall</span>
+          <span id="global-progress-text">0 / 0</span>
+        </div>
+        <div class="progress-bar-track">
+          <div id="global-progress-bar" class="progress-bar-fill"></div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Mobile header -->
+  <header class="mobile-header">
+    <button id="menu-toggle" class="btn-icon" aria-label="Open menu">
+      <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+    </button>
+    <h1 class="logo-sm">⚛️ PhysCards</h1>
+  </header>
+
+  <!-- Overlay for mobile sidebar -->
+  <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+  <!-- Main content -->
+  <main id="main" class="main">
+    <!-- Welcome / Landing -->
+    <section id="landing" class="landing">
+      <div class="landing-content">
+        <h2 class="landing-title">Welcome to <span class="gradient-text">PhysCards</span></h2>
+        <p class="landing-desc">Select a chapter from the sidebar to start revising your physics definitions. Flip cards, track your progress, and ace your exams!</p>
+        <div class="landing-stats" id="landing-stats"></div>
+      </div>
+    </section>
+
+    <!-- Flashcard view -->
+    <section id="flashcard-view" class="flashcard-view hidden">
+      <div class="flashcard-header">
+        <h2 id="chapter-title" class="chapter-title"></h2>
+        <div class="card-counter">
+          <span id="card-index">1</span> / <span id="card-total">0</span>
+        </div>
+      </div>
+
+      <div class="flashcard-stage">
+        <button id="prev-btn" class="nav-arrow nav-arrow-left" aria-label="Previous card">
+          <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 6 9 14 15 22"/></svg>
+        </button>
+
+        <div id="flashcard" class="flashcard" tabindex="0" role="button" aria-label="Click to flip card">
+          <div class="flashcard-inner">
+            <div class="flashcard-front">
+              <span class="card-label">TERM</span>
+              <p id="card-term" class="card-text"></p>
+              <span class="card-hint">Click or press Space to reveal</span>
+            </div>
+            <div class="flashcard-back">
+              <span class="card-label">DEFINITION</span>
+              <p id="card-def" class="card-text"></p>
+              <span class="card-hint">Click or press Space to flip back</span>
+            </div>
+          </div>
+        </div>
+
+        <button id="next-btn" class="nav-arrow nav-arrow-right" aria-label="Next card">
+          <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 6 19 14 13 22"/></svg>
+        </button>
+      </div>
+
+      <div class="flashcard-footer">
+        <div class="chapter-progress">
+          <div class="progress-bar-track">
+            <div id="chapter-progress-bar" class="progress-bar-fill"></div>
+          </div>
+          <span id="chapter-progress-text" class="progress-label"></span>
+        </div>
+        <div class="flashcard-actions">
+          <button id="mark-known-btn" class="btn btn-success" title="Mark as known">
+            ✅ Got it
+          </button>
+          <button id="reset-chapter-btn" class="btn btn-ghost" title="Reset chapter progress">
+            🔄 Reset
+          </button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>

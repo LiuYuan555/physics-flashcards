@@ -1,0 +1,520 @@
+[
+  {
+    "chapter": 1,
+    "title": "PHYSICAL QUANTITIES, UNITS AND MEASUREMENTS",
+    "terms": [
+      {
+        "term": "Oscillation",
+        "definition": "Each complete to-and-fro motion is one oscillation."
+      },
+      {
+        "term": "Period of a simple pendulum",
+        "definition": "The time taken for one complete oscillation."
+      },
+      {
+        "term": "Scalar quantities",
+        "definition": "Physical quantities that have only magnitude."
+      },
+      {
+        "term": "Vector quantities",
+        "definition": "Physical quantities that have both magnitude and direction."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "KINEMATICS",
+    "terms": [
+      {
+        "term": "Speed",
+        "definition": "The distance moved per unit time."
+      },
+      {
+        "term": "Velocity",
+        "definition": "The rate of change of displacement."
+      },
+      {
+        "term": "Average speed",
+        "definition": "Assumes that an object travels at the same speed throughout the entire distance."
+      },
+      {
+        "term": "Average velocity",
+        "definition": "Assumes that an object travels at the same velocity throughout the entire displacement."
+      },
+      {
+        "term": "Acceleration",
+        "definition": "The rate of change of velocity."
+      },
+      {
+        "term": "Uniform acceleration",
+        "definition": "A constant rate of change of velocity."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "DYNAMICS I: MASS AND WEIGHT",
+    "terms": [
+      {
+        "term": "Mass",
+        "definition": "Amount of matter in a body."
+      },
+      {
+        "term": "Weight",
+        "definition": "The gravitational force acting on an object that has mass."
+      },
+      {
+        "term": "Gravitational field",
+        "definition": "A region in which a mass experiences a gravitational force."
+      },
+      {
+        "term": "Gravitational field strength",
+        "definition": "Gravitational force per unit mass placed at that point."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "DYNAMICS II: FORCES",
+    "terms": [
+      {
+        "term": "Newton's First Law of Motion",
+        "definition": "States that every object will continue in its state of rest or uniform motion in a straight line unless a resultant force acts on it."
+      },
+      {
+        "term": "Inertia",
+        "definition": "The reluctance of an object to change its state of rest or motion, due to its mass."
+      },
+      {
+        "term": "Newton's Second Law of Motion",
+        "definition": "States that when a resultant force acts on an object of a constant mass, the object will accelerate in the direction of the resultant force."
+      },
+      {
+        "term": "Newton's Third Law of Motion",
+        "definition": "States that if body A exerts a force on body B, then body B will exert an equal and opposite force of the same type on body A."
+      },
+      {
+        "term": "Friction",
+        "definition": "The contact force that opposes or tends to oppose motion between surfaces in contact."
+      },
+      {
+        "term": "Terminal velocity",
+        "definition": "When the air resistance acting against an object equals its weight, the object starts to travel at a constant speed known as terminal velocity."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "TURNING EFFECTS OF FORCES",
+    "terms": [
+      {
+        "term": "Moment of a force",
+        "definition": "The product of the force and the perpendicular distance from the pivot to the line of action of the force."
+      },
+      {
+        "term": "Principle of moments",
+        "definition": "States that when a body is in equilibrium, the sum of clockwise moments about a pivot is equal to the sum of anticlockwise moments about the same pivot."
+      },
+      {
+        "term": "Centre of gravity",
+        "definition": "An imaginary point where the entire weight of the object seems to act."
+      },
+      {
+        "term": "Stability",
+        "definition": "A measure of its ability to maintain its original position."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "PRESSURE",
+    "terms": [
+      {
+        "term": "Pressure",
+        "definition": "The force acting per unit area."
+      },
+      {
+        "term": "Density",
+        "definition": "Mass per unit volume."
+      },
+      {
+        "term": "Pascal's principle (or Pascal's law",
+        "definition": "If a pressure is applied to an enclosed liquid, the pressure is transmitted to all other parts of the liquid undiminished."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "ENERGY",
+    "terms": [
+      {
+        "term": "Principle of conservation of energy",
+        "definition": "Energy cannot be created or destroyed. Energy can be transferred from one store to another. Total energy in an isolated system remains constant."
+      },
+      {
+        "term": "Work done by a constant force",
+        "definition": "The product of the force and the distance moved by the object in the direction of the force."
+      },
+      {
+        "term": "Power",
+        "definition": "Work done / Energy per unit time."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "KINETIC PARTICLE MODEL OF MATTER",
+    "terms": [
+      {
+        "term": "Kinetic particle model of matter",
+        "definition": "Is made up of tiny particles that are in continuous motion."
+      },
+      {
+        "term": "Brownian motion",
+        "definition": "The random motion of particles in a fluid."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "THERMAL PROCESSES",
+    "terms": [
+      {
+        "term": "Thermal equilibrium",
+        "definition": "Describes a state in which two or more objects have the same temperature and that there is no net transfer of energy between them."
+      },
+      {
+        "term": "Conduction",
+        "definition": "A process of energy transfer where energy is transferred through the passing on of vibrational motion from one particle to another."
+      },
+      {
+        "term": "Convection",
+        "definition": "A process of energy transfer by means of convection currents of a fluid (liquid or gas), due to a difference in density."
+      },
+      {
+        "term": "Radiation",
+        "definition": "The process of energy transfer by electromagnetic waves. It does not require a medium."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "THERMAL PROPERTIES OF MATTER",
+    "terms": [
+      {
+        "term": "Internal energy",
+        "definition": "Consists of the kinetic energy associated with the random motion of the particles and the total potential energy between the particles in the system."
+      },
+      {
+        "term": "Heat capacity",
+        "definition": "The change of its internal energy per unit change in its temperature."
+      },
+      {
+        "term": "Specific heat capacity",
+        "definition": "The change of its internal energy per unit mass for each unit change in its temperature."
+      },
+      {
+        "term": "Latent heat",
+        "definition": "The energy released or absorbed to change the state of a substance, at constant temperature."
+      },
+      {
+        "term": "Latent heat of fusion",
+        "definition": "The amount of energy transferred to change a substance between the solid and liquid states, at constant temperature."
+      },
+      {
+        "term": "Specific latent heat of fusion",
+        "definition": "The amount of energy transferred per unit mass of a substance to change between the solid and liquid states, at constant temperature."
+      },
+      {
+        "term": "Latent heat of vaporisation",
+        "definition": "The amount of energy transferred to change a substance between the liquid and gaseous states, at constant temperature."
+      },
+      {
+        "term": "Specific latent heat of vaporisation",
+        "definition": "The amount of energy transferred per unit mass of a substance to change it between the liquid and gaseous states, at constant temperature."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "GENERAL WAVE PROPERTIES I: INTRODUCTION",
+    "terms": [
+      {
+        "term": "Wave",
+        "definition": "A disturbance that propagates through space, carrying energy with it but not matter."
+      },
+      {
+        "term": "Vibrations or oscillations",
+        "definition": "The periodic and repetitive motion of any selected point in a wave."
+      },
+      {
+        "term": "Transverse wave",
+        "definition": "Has a direction of vibration that is perpendicular to the direction of wave travel."
+      },
+      {
+        "term": "Longitudinal wave",
+        "definition": "Has a direction of vibration that is parallel to the direction of wave travel."
+      },
+      {
+        "term": "Displacement",
+        "definition": "A vector pointing from its rest position to the point."
+      },
+      {
+        "term": "Amplitude",
+        "definition": "Its maximum magnitude of displacement from its rest position."
+      },
+      {
+        "term": "Crests and Troughs",
+        "definition": "Crests are the highest points of a transverse wave. Troughs are the lowest points of a transverse wave."
+      },
+      {
+        "term": "In phase",
+        "definition": "Describes two points on a wave that always have the same direction of motion (moving in step)."
+      },
+      {
+        "term": "Wavelength",
+        "definition": "The shortest distance between two points which are in phase along the wave's direction."
+      },
+      {
+        "term": "Period",
+        "definition": "The time taken by each point on the wave to complete one oscillation."
+      },
+      {
+        "term": "Frequency",
+        "definition": "The number of oscillations each point completes per second."
+      },
+      {
+        "term": "Wave speed",
+        "definition": "The distance travelled by a wave per second."
+      },
+      {
+        "term": "Wavefront",
+        "definition": "An imaginary line joining all adjacent points that are in phase."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "GENERAL WAVE PROPERTIES II: SOUND",
+    "terms": [
+      {
+        "term": "Sound",
+        "definition": "A longitudinal wave travelling in the air, created by a vibrating source."
+      },
+      {
+        "term": "Ultrasound",
+        "definition": "Frequencies above 20 000 Hz."
+      },
+      {
+        "term": "Echo",
+        "definition": "The repetition of a sound due to the reflection of sound."
+      }
+    ]
+  },
+  {
+    "chapter": 13,
+    "title": "ELECTROMAGNETIC WAVES",
+    "terms": [
+      {
+        "term": "Ionising waves",
+        "definition": "Those with higher frequencies and hence higher energies."
+      }
+    ]
+  },
+  {
+    "chapter": 14,
+    "title": "LIGHT",
+    "terms": [
+      {
+        "term": "First law of reflection",
+        "definition": "States that the incident ray, reflected ray and the normal at the point of incidence lie in the same plane."
+      },
+      {
+        "term": "Second law of reflection",
+        "definition": "States that the angle of incidence is equal to the angle of reflection."
+      },
+      {
+        "term": "Refraction",
+        "definition": "The bending of light as light passes from one optical medium to another."
+      },
+      {
+        "term": "First law of refraction",
+        "definition": "States that the incident ray, refracted ray and the normal at the point of incidence all lie in the same plane."
+      },
+      {
+        "term": "Second law of refraction",
+        "definition": "States that for two given media, the ratio of the sine of angle of incidence to the sine of the angle of refraction is a constant."
+      },
+      {
+        "term": "Refractive index",
+        "definition": "Defined as the ratio of the speed of light in a vacuum to the speed of light in that medium."
+      },
+      {
+        "term": "Principle of reversibility of light rays",
+        "definition": "States that regardless of how many times a light ray has been reflected or refracted, it will follow the same path when its direction is reversed."
+      },
+      {
+        "term": "Critical angle",
+        "definition": "Defined as the angle of incidence in an optically denser medium for which the angle of refraction in the less dense medium is 90 degrees."
+      },
+      {
+        "term": "Total internal reflection",
+        "definition": "The complete reflection of a light ray in an optically denser medium at the boundary with an optically less dense medium."
+      },
+      {
+        "term": "Focal length",
+        "definition": "The distance between the optical centre and the principal focus point."
+      }
+    ]
+  },
+  {
+    "chapter": 15,
+    "title": "STATIC ELECTRICITY",
+    "terms": [
+      {
+        "term": "Electric field",
+        "definition": "A region in which an electric charge experiences an electric force."
+      }
+    ]
+  },
+  {
+    "chapter": 16,
+    "title": "CURRENT OF ELECTRICITY",
+    "terms": [
+      {
+        "term": "Electric current",
+        "definition": "The rate of flow of charge with respect to time."
+      },
+      {
+        "term": "Conventional current",
+        "definition": "The direction of flow of positive charges is described as the conventional current."
+      },
+      {
+        "term": "Electromotive force (e.m.f)",
+        "definition": "The work done by the source in driving a unit charge around a complete circuit."
+      },
+      {
+        "term": "Potential difference (p.d.)",
+        "definition": "The work done per unit charge in driving charges through the component and that it is measured in volts."
+      },
+      {
+        "term": "Resistance",
+        "definition": "The ratio of the potential difference across it to the current flowing through it."
+      }
+    ]
+  },
+  {
+    "chapter": 17,
+    "title": "D.C. CIRCUITS",
+    "terms": [
+      {
+        "term": "Potential divider",
+        "definition": "A voltage divider, which makes use of voltage drop across resistors in series to divide voltage."
+      },
+      {
+        "term": "Transducers",
+        "definition": "Convert changes in the physical condition, such as pressure, temperature or light into electrical signals so that these physical conditions can be measured."
+      }
+    ]
+  },
+  {
+    "chapter": 19,
+    "title": "MAGNETISM",
+    "terms": [
+      {
+        "term": "Induction (induced magnetism)",
+        "definition": "Can take place when a ferromagnetic material is placed close to a strong magnet or within a current-carrying solenoid."
+      },
+      {
+        "term": "Magnetic field",
+        "definition": "A region in which the force of magnetism acts."
+      },
+      {
+        "term": "Temporary magnets",
+        "definition": "Magnets that retain their magnetism in the presence of an electric current or a permanent magnetic field."
+      },
+      {
+        "term": "Permanent magnets",
+        "definition": "Do not require the presence of an electric current or a permanent magnetic field to retain their magnetism."
+      }
+    ]
+  },
+  {
+    "chapter": 20,
+    "title": "ELECTROMAGNETISM",
+    "terms": [
+      {
+        "term": "Motor effect",
+        "definition": "A current-carrying conductor will experience a force if the magnetic field applied is perpendicular (or has a component that is perpendicular) to the direction of flow of current."
+      }
+    ]
+  },
+  {
+    "chapter": 21,
+    "title": "ELECTROMAGNETIC INDUCTION",
+    "terms": [
+      {
+        "term": "Electromagnetic induction",
+        "definition": "The process through which an induced e.m.f. is produced in a conductor due to a changing magnetic field."
+      },
+      {
+        "term": "Faraday's Law of electromagnetic induction",
+        "definition": "States that the magnitude of the induced e.m.f. in a circuit is directly proportional to the rate of change of magnetic flux in the circuit."
+      },
+      {
+        "term": "Magnetic flux",
+        "definition": "The magnetic field in a given area."
+      },
+      {
+        "term": "Lenz's Law",
+        "definition": "States that the direction of the induced e.m.f. and hence the induced current in a closed circuit, is always such that its magnetic effect opposes the motion or change producing it."
+      },
+      {
+        "term": "Transformer",
+        "definition": "A device used in the transmission of electricity."
+      }
+    ]
+  },
+  {
+    "chapter": 22,
+    "title": "RADIOACTIVITY",
+    "terms": [
+      {
+        "term": "Proton number (atomic number)",
+        "definition": "The number of protons in an atom."
+      },
+      {
+        "term": "Nucleon number (mass number)",
+        "definition": "The total number of neutrons and protons in the nucleus of an atom."
+      },
+      {
+        "term": "Isotopes",
+        "definition": "Atoms of the same element that have the same number of protons but different numbers of neutrons."
+      },
+      {
+        "term": "Nuclear decay",
+        "definition": "A random process by which an unstable atomic nucleus loses its energy by emission of electromagnetic radiation or particle(s)."
+      },
+      {
+        "term": "Ionising radiation",
+        "definition": "Radiation with high energies that can knock off electrons from atoms to form ions."
+      },
+      {
+        "term": "Background radiation",
+        "definition": "Refers to nuclear radiation in an environment where no radioactive source has been deliberately introduced."
+      },
+      {
+        "term": "Half-life",
+        "definition": "The time taken for half the nuclei of that nuclide in any sample to decay."
+      },
+      {
+        "term": "Nuclear fission",
+        "definition": "A process in which the nucleus of an atom splits (usually into two parts) and releases a huge amount of energy."
+      },
+      {
+        "term": "Nuclear fusion",
+        "definition": "A process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy."
+      }
+    ]
+  }
+]
