@@ -5,23 +5,44 @@
     "terms": [
       {
         "term": "Physical quantity",
-        "definition": "A quantity that can be measured. It consists of a numerical magnitude and a unit."
+        "definition": "A quantity that can be measured. It consists of a numerical magnitude and a unit.",
+        "keywords": [
+          "measured",
+          "magnitude",
+          "unit"
+        ]
       },
       {
         "term": "Oscillation",
-        "definition": "Each complete to-and-fro motion is one oscillation."
+        "definition": "Each complete to-and-fro motion is one oscillation.",
+        "keywords": [
+          "complete",
+          "motion"
+        ]
       },
       {
         "term": "Period of a simple pendulum",
-        "definition": "The time taken for one complete oscillation."
+        "definition": "The time taken for one complete oscillation.",
+        "keywords": [
+          "time",
+          "complete",
+          "oscillation"
+        ]
       },
       {
         "term": "Scalar quantities",
-        "definition": "Physical quantities that have only magnitude."
+        "definition": "Physical quantities that have only magnitude.",
+        "keywords": [
+          "magnitude"
+        ]
       },
       {
         "term": "Vector quantities",
-        "definition": "Physical quantities that have both magnitude and direction."
+        "definition": "Physical quantities that have both magnitude and direction.",
+        "keywords": [
+          "magnitude",
+          "direction"
+        ]
       }
     ]
   },
@@ -31,35 +52,73 @@
     "terms": [
       {
         "term": "Distance",
-        "definition": "The total length covered by a moving object. Scalar quantity, SI unit: metre (m)."
+        "definition": "The total length covered by a moving object.",
+        "keywords": [
+          "length",
+          "covered"
+        ]
       },
       {
         "term": "Displacement",
-        "definition": "The shortest distance between two points in a specified direction. Vector quantity, SI unit: metre (m)."
+        "definition": "Straight line distance between start and end point in that direction.",
+        "keywords": [
+          "straight",
+          "line",
+          "direction"
+        ]
       },
       {
         "term": "Speed",
-        "definition": "Rate of change of distance."
+        "definition": "Rate of change of distance.",
+        "keywords": [
+          "rate",
+          "change",
+          "distance"
+        ]
       },
       {
         "term": "Velocity",
-        "definition": "Rate of change of displacement."
+        "definition": "Rate of change of displacement.",
+        "keywords": [
+          "rate",
+          "change",
+          "displacement"
+        ]
       },
       {
         "term": "Average speed",
-        "definition": "Total distance travelled divided by total time taken."
+        "definition": "Total distance travelled divided by total time taken.",
+        "keywords": [
+          "distance",
+          "time"
+        ]
       },
       {
         "term": "Average velocity",
-        "definition": "Total displacement divided by total time taken."
+        "definition": "Total displacement divided by total time taken.",
+        "keywords": [
+          "displacement",
+          "time"
+        ]
       },
       {
         "term": "Acceleration",
-        "definition": "The rate of change of velocity."
+        "definition": "The rate of change of velocity.",
+        "keywords": [
+          "rate",
+          "change",
+          "velocity"
+        ]
       },
       {
         "term": "Uniform acceleration",
-        "definition": "A constant rate of change of velocity."
+        "definition": "A constant rate of change of velocity.",
+        "keywords": [
+          "constant",
+          "rate",
+          "change",
+          "velocity"
+        ]
       }
     ]
   },
@@ -69,43 +128,101 @@
     "terms": [
       {
         "term": "Mass",
-        "definition": "A measure of the amount of matter in a body."
+        "definition": "A measure of the amount of matter in a body.",
+        "keywords": [
+          "matter"
+        ]
       },
       {
         "term": "Weight",
-        "definition": "The gravitational force acting on an object that has mass."
+        "definition": "The gravitational force acting on an object that has mass.",
+        "keywords": [
+          "gravitational",
+          "force"
+        ]
       },
       {
         "term": "Gravitational field",
-        "definition": "A region of space in which a mass experiences a gravitational force."
+        "definition": "A region of space in which a mass experiences a gravitational force.",
+        "keywords": [
+          "region",
+          "mass",
+          "gravitational",
+          "force"
+        ]
       },
       {
         "term": "Gravitational field strength",
-        "definition": "The gravitational force per unit mass placed at that point in the gravitational field."
+        "definition": "The gravitational force per unit mass placed at that point in the gravitational field.",
+        "keywords": [
+          "force",
+          "unit",
+          "mass"
+        ]
       },
       {
         "term": "Newton's First Law of Motion",
-        "definition": "States that every object will continue in its state of rest or uniform motion in a straight line unless a resultant force acts on it."
+        "definition": "States that every object will continue in its state of rest or uniform motion in a straight line unless a resultant force acts on it.",
+        "keywords": [
+          "rest",
+          "uniform",
+          "motion",
+          "straight",
+          "line",
+          "resultant",
+          "force"
+        ]
       },
       {
         "term": "Inertia",
-        "definition": "Refers to the reluctance of the object to change its state of rest or motion, due to its mass."
+        "definition": "Refers to the reluctance of the object to change its state of rest or motion, due to its mass.",
+        "keywords": [
+          "reluctance",
+          "change",
+          "rest",
+          "motion",
+          "mass"
+        ]
       },
       {
         "term": "Newton's Second Law of Motion",
-        "definition": "States that when a resultant force acts on an object of a constant mass, the object will accelerate in the direction of the resultant force."
+        "definition": "States that when a resultant force acts on an object of a constant mass, the object will accelerate in the direction of the resultant force.",
+        "keywords": [
+          "resultant",
+          "force",
+          "accelerate",
+          "direction"
+        ]
       },
       {
         "term": "Newton's Third Law of Motion",
-        "definition": "States that if body A exerts a force on body B, then body B will exert an equal and opposite force of the same type on body A."
+        "definition": "States that if body A exerts a force on body B, then body B will exert an equal and opposite force of the same type on body A.",
+        "keywords": [
+          "equal",
+          "opposite",
+          "force"
+        ]
       },
       {
         "term": "Friction",
-        "definition": "The contact force that opposes or tends to oppose motion between surfaces in contact."
+        "definition": "The contact force that opposes motion between surfaces in contact.",
+        "keywords": [
+          "opposes",
+          "motion",
+          "surfaces"
+        ]
       },
       {
         "term": "Terminal velocity",
-        "definition": "When the air resistance acting against an object equals its weight, the object starts to travel at a constant speed known as terminal velocity."
+        "definition": "When the air resistance acting against an object equals its weight, the object starts to travel at a constant speed known as terminal velocity.",
+        "keywords": [
+          "air",
+          "resistance",
+          "equals",
+          "weight",
+          "constant",
+          "speed"
+        ]
       }
     ]
   },
@@ -115,35 +232,88 @@
     "terms": [
       {
         "term": "Moment of a force",
-        "definition": "Product of the force and the perpendicular distance from the pivot to the line of action of the force."
+        "definition": "Product of the force and the perpendicular distance from the pivot to the line of action of the force.",
+        "keywords": [
+          "force",
+          "perpendicular",
+          "distance",
+          "pivot"
+        ]
       },
       {
         "term": "Principle of moments",
-        "definition": "States that when a body is in equilibrium, the sum of clockwise moments about a pivot is equal to the sum of anticlockwise moments about the same pivot."
+        "definition": "When a body is in equilibrium, the sum of clockwise moments about a pivot is equal to the sum of anticlockwise moments about the same pivot.",
+        "keywords": [
+          "equilibrium",
+          "clockwise",
+          "anticlockwise",
+          "moments",
+          "pivot"
+        ]
       },
       {
         "term": "Centre of gravity",
-        "definition": "An imaginary point where the entire weight of the object seems to act."
+        "definition": "An imaginary point where the entire weight of the object seems to act.",
+        "keywords": [
+          "point",
+          "weight",
+          "act"
+        ]
       },
       {
         "term": "Stability",
-        "definition": "A measure of an object's ability to return to its original position when displaced. Stability increases with a larger base area and a lower centre of gravity."
+        "definition": "A measure of an object's ability to return to its original position when displaced. Stability increases with a larger base area and a lower centre of gravity.",
+        "keywords": [
+          "return",
+          "base",
+          "area",
+          "centre",
+          "gravity"
+        ]
       },
       {
         "term": "Equilibrium",
-        "definition": "The state of an object when both the resultant force and the resultant moment acting on it are zero."
+        "definition": "The state of an object when both the resultant force and the resultant moment acting on it are zero.",
+        "keywords": [
+          "resultant",
+          "force",
+          "moment",
+          "zero"
+        ]
       },
       {
         "term": "Stable equilibrium",
-        "definition": "When a displaced object returns to its original position because its weight creates a restoring moment. The line of action of weight falls within the base area."
+        "definition": "When a displaced object returns to its original position because its weight creates a restoring moment. The line of action of weight falls within the base area.",
+        "keywords": [
+          "returns",
+          "restoring",
+          "moment",
+          "base",
+          "area"
+        ]
       },
       {
         "term": "Unstable equilibrium",
-        "definition": "When a displaced object topples because its weight creates a resultant moment that moves it further from its original position. The line of action of weight falls outside the base area."
+        "definition": "When a displaced object topples because its weight creates a resultant moment that moves it further from its original position. The line of action of weight falls outside the base area.",
+        "keywords": [
+          "topples",
+          "resultant",
+          "moment",
+          "outside",
+          "base",
+          "area"
+        ]
       },
       {
         "term": "Neutral equilibrium",
-        "definition": "When a displaced object remains in its new position because the weight creates no moment. The centre of gravity remains at the same height."
+        "definition": "When a displaced object remains in its new position because the weight creates no moment. The centre of gravity remains at the same height.",
+        "keywords": [
+          "remains",
+          "moment",
+          "centre",
+          "gravity",
+          "height"
+        ]
       }
     ]
   },
@@ -153,11 +323,19 @@
     "terms": [
       {
         "term": "Pressure",
-        "definition": "Force acting per unit area."
+        "definition": "Force acting per unit area.",
+        "keywords": [
+          "force",
+          "area"
+        ]
       },
       {
         "term": "Density",
-        "definition": "Mass per unit volume."
+        "definition": "Mass per unit volume.",
+        "keywords": [
+          "mass",
+          "volume"
+        ]
       }
     ]
   },
@@ -167,31 +345,65 @@
     "terms": [
       {
         "term": "Energy",
-        "definition": "The capacity to do work. SI unit: Joule (J)."
+        "definition": "The capacity to do work.",
+        "keywords": [
+          "capacity",
+          "work"
+        ]
       },
       {
         "term": "Kinetic energy",
-        "definition": "The energy an object possesses due to its motion. Given by KE = ½mv², where m is mass in kg and v is speed in m/s. SI unit: Joule (J)."
+        "definition": "The energy an object possesses due to its motion.",
+        "keywords": [
+          "energy",
+          "motion"
+        ]
       },
       {
         "term": "Gravitational potential energy",
-        "definition": "The energy an object possesses due to its position relative to the ground. Given by GPE = mgh, where m is mass, g is gravitational field strength, and h is height above ground. SI unit: Joule (J)."
+        "definition": "The energy an object possesses due to its position relative to the ground.",
+        "keywords": [
+          "energy",
+          "position",
+          "ground"
+        ]
       },
       {
         "term": "Principle of conservation of energy",
-        "definition": "Energy cannot be created or destroyed. It can only be transferred from one energy store to another. Total energy in an isolated system is constant."
+        "definition": "Energy cannot be created or destroyed. It can only be transferred from one energy store to another. Total energy in an isolated system is constant.",
+        "keywords": [
+          "created",
+          "destroyed",
+          "transferred",
+          "constant"
+        ]
       },
       {
         "term": "Work done by a constant force",
-        "definition": "The product of the force and the distance moved by the object in the direction of the force."
+        "definition": "The product of the force and the distance moved by the object in the direction of the force.",
+        "keywords": [
+          "force",
+          "distance",
+          "direction"
+        ]
       },
       {
         "term": "Power",
-        "definition": "The rate of work done or energy transferred per unit time. SI unit: Watt (W), where 1 W = 1 J/s."
+        "definition": "The rate of work done or energy transferred per unit time.",
+        "keywords": [
+          "rate",
+          "work",
+          "time"
+        ]
       },
       {
         "term": "Efficiency",
-        "definition": "The ratio of useful energy (or power) output to the total energy (or power) input, expressed as a percentage. A machine is less than 100% efficient due to energy losses, commonly to internal stores via friction or sound."
+        "definition": "The ratio of useful energy output to total energy input.",
+        "keywords": [
+          "useful",
+          "output",
+          "input"
+        ]
       }
     ]
   },
@@ -201,15 +413,40 @@
     "terms": [
       {
         "term": "Solid (particle model)",
-        "definition": "Particles are very closely packed in a regular structure, held by very strong intermolecular forces. They vibrate about fixed positions. A solid has fixed shape, fixed volume, high density, and is incompressible."
+        "definition": "Particles are very closely packed in a regular structure, held by very strong intermolecular forces. They vibrate about fixed positions. A solid has fixed shape, fixed volume, high density, and is incompressible.",
+        "keywords": [
+          "packed",
+          "regular",
+          "intermolecular",
+          "vibrate",
+          "shape",
+          "volume",
+          "incompressible"
+        ]
       },
       {
         "term": "Liquid (particle model)",
-        "definition": "Particles are closely packed in an irregular structure with intermolecular forces weaker than in solids. They slide across each other freely. A liquid has no fixed shape, fixed volume, medium density, and is incompressible."
+        "definition": "Particles are closely packed in an irregular structure with intermolecular forces weaker than in solids. They slide across each other freely. A liquid has no fixed shape, fixed volume, medium density, and is incompressible.",
+        "keywords": [
+          "irregular",
+          "intermolecular",
+          "slide",
+          "shape",
+          "volume",
+          "incompressible"
+        ]
       },
       {
         "term": "Gas (particle model)",
-        "definition": "Particles are spread far apart with very weak intermolecular forces. They move at high speeds in random directions. A gas has no fixed shape, no fixed volume, low density, and is compressible."
+        "definition": "Particles are spread far apart with very weak intermolecular forces. They move at high speeds in random directions. A gas has no fixed shape, no fixed volume, low density, and is compressible.",
+        "keywords": [
+          "apart",
+          "intermolecular",
+          "random",
+          "shape",
+          "volume",
+          "compressible"
+        ]
       }
     ]
   },
@@ -219,19 +456,46 @@
     "terms": [
       {
         "term": "Thermal equilibrium",
-        "definition": "Describes a state in which two or more objects have the same temperature and that there is no net transfer of energy between them."
+        "definition": "Describes a state in which two or more objects have the same temperature and that there is no net transfer of energy between them.",
+        "keywords": [
+          "temperature",
+          "net",
+          "transfer",
+          "energy"
+        ]
       },
       {
         "term": "Conduction",
-        "definition": "A process of energy transfer where energy is transferred through the passing on of vibrational motion from one particle to another. Requires a medium and cannot occur in a vacuum. Metals are better conductors than non-metals due to the presence of free electrons."
+        "definition": "A process of energy transfer where energy is transferred through the passing on of vibrational motion from one particle to another. Requires a medium and cannot occur in a vacuum. Metals are better conductors than non-metals due to the presence of free electrons.",
+        "keywords": [
+          "vibrational",
+          "motion",
+          "particle",
+          "medium",
+          "vacuum",
+          "electrons"
+        ]
       },
       {
         "term": "Convection",
-        "definition": "A process of energy transfer by means of convection currents in a fluid (liquid or gas), due to a difference in density. Does not occur in solids and requires a medium."
+        "definition": "A process of energy transfer by means of convection currents in a fluid (liquid or gas), due to a difference in density. Does not occur in solids and requires a medium.",
+        "keywords": [
+          "convection",
+          "currents",
+          "fluid",
+          "density",
+          "medium"
+        ]
       },
       {
         "term": "Radiation",
-        "definition": "The transfer of energy through electromagnetic waves. Does not require a medium and can travel through a vacuum. Emitted by all matter that possesses temperature."
+        "definition": "The transfer of energy through electromagnetic waves. Does not require a medium and can travel through a vacuum. Emitted by all matter that possesses temperature.",
+        "keywords": [
+          "electromagnetic",
+          "waves",
+          "medium",
+          "vacuum"
+        ]
       }
     ]
   },
@@ -241,35 +505,84 @@
     "terms": [
       {
         "term": "Internal energy",
-        "definition": "Consists of the kinetic energy associated with the random motion of the particles and the total potential energy between the particles in the system."
+        "definition": "Consists of the kinetic energy associated with the random motion of the particles and the total potential energy between the particles in the system.",
+        "keywords": [
+          "kinetic",
+          "potential",
+          "random",
+          "motion",
+          "particles"
+        ]
       },
       {
         "term": "Heat capacity",
-        "definition": "Amount of energy required to raise the temperature of a body by 1 ºC or 1 Kelvin (K) without a change in state."
+        "definition": "Amount of energy required to raise the temperature of a body by 1 ºC or 1 Kelvin (K) without a change in state.",
+        "keywords": [
+          "energy",
+          "raise",
+          "temperature",
+          "body",
+          "state"
+        ]
       },
       {
         "term": "Specific heat capacity",
-        "definition": "Amount of energy required to raise the temperature of 1 kg of substance by 1 ºC or 1 Kelvin without a change in state."
+        "definition": "Amount of energy required to raise the temperature of 1 kg of substance by 1 ºC or 1 Kelvin without a change in state.",
+        "keywords": [
+          "energy",
+          "raise",
+          "temperature",
+          "state"
+        ]
       },
       {
         "term": "Latent heat",
-        "definition": "The amount of energy absorbed or released to change the state of a substance without a change in temperature."
+        "definition": "The amount of energy absorbed or released to change the state of a substance without a change in temperature.",
+        "keywords": [
+          "energy",
+          "state",
+          "temperature"
+        ]
       },
       {
         "term": "Latent heat of fusion",
-        "definition": "The amount of energy transferred to change a substance between the solid and liquid states, at constant temperature."
+        "definition": "The amount of energy transferred to change a substance between the solid and liquid states, at constant temperature.",
+        "keywords": [
+          "energy",
+          "solid",
+          "liquid",
+          "temperature"
+        ]
       },
       {
         "term": "Specific latent heat of fusion",
-        "definition": "The amount of energy required to melt or freeze 1 kg of a substance without a change in temperature. SI unit: J/kg."
+        "definition": "The amount of energy required to melt or freeze 1 kg of a substance without a change in temperature.",
+        "keywords": [
+          "energy",
+          "melt",
+          "freeze",
+          "temperature"
+        ]
       },
       {
         "term": "Latent heat of vaporisation",
-        "definition": "The amount of energy transferred to change a substance between the liquid and gaseous states, at constant temperature."
+        "definition": "The amount of energy transferred to change a substance between the liquid and gaseous states, at constant temperature.",
+        "keywords": [
+          "energy",
+          "liquid",
+          "gaseous",
+          "temperature"
+        ]
       },
       {
         "term": "Specific latent heat of vaporisation",
-        "definition": "The amount of energy required to boil or condense 1 kg of a substance without a change in temperature. SI unit: J/kg."
+        "definition": "The amount of energy required to boil or condense 1 kg of a substance without a change in temperature.",
+        "keywords": [
+          "energy",
+          "boil",
+          "condense",
+          "temperature"
+        ]
       }
     ]
   },
@@ -279,55 +592,121 @@
     "terms": [
       {
         "term": "Transverse wave",
-        "definition": "Has a direction of vibration that is perpendicular to the direction of wave travel."
+        "definition": "Has a direction of vibration that is perpendicular to the direction of wave travel.",
+        "keywords": [
+          "vibration",
+          "perpendicular",
+          "travel"
+        ]
       },
       {
         "term": "Longitudinal wave",
-        "definition": "Has a direction of vibration that is parallel to the direction of wave travel."
+        "definition": "Has a direction of vibration that is parallel to the direction of wave travel.",
+        "keywords": [
+          "vibration",
+          "parallel",
+          "travel"
+        ]
       },
       {
         "term": "Wave",
-        "definition": "A wave is a travelling disturbance that transfers energy from one place to another without the transfer of matter."
+        "definition": "A wave is a travelling disturbance that transfers energy from one place to another without the transfer of matter.",
+        "keywords": [
+          "disturbance",
+          "energy",
+          "matter"
+        ]
       },
       {
         "term": "Amplitude",
-        "definition": "The maximum displacement of a particle from its rest (equilibrium) position."
+        "definition": "The maximum displacement of a particle from its rest (equilibrium) position.",
+        "keywords": [
+          "maximum",
+          "displacement",
+          "equilibrium"
+        ]
       },
       {
         "term": "Crests and Troughs",
-        "definition": "Crests are the highest points of a transverse wave. Troughs are the lowest points of a transverse wave."
+        "definition": "Crests are the highest points of a transverse wave. Troughs are the lowest points of a transverse wave.",
+        "keywords": [
+          "highest",
+          "lowest",
+          "transverse"
+        ]
       },
       {
         "term": "In phase",
-        "definition": "Describes two points on a wave that always have the same direction of motion (moving in step)."
+        "definition": "Describes two points on a wave that always have the same direction of motion (moving in step).",
+        "keywords": [
+          "direction",
+          "motion",
+          "step"
+        ]
       },
       {
         "term": "Wavelength",
-        "definition": "The distance between two successive points in phase. SI unit: metre (m)."
+        "definition": "The distance between two successive points in phase.",
+        "keywords": [
+          "distance",
+          "successive",
+          "phase"
+        ]
       },
       {
         "term": "Period",
-        "definition": "The time taken for a source to produce one complete wave, or for one complete wave to pass a point. SI unit: second (s)."
+        "definition": "The time taken for a source to produce one complete wave, or for one complete wave to pass a point.",
+        "keywords": [
+          "time",
+          "complete",
+          "wave"
+        ]
       },
       {
         "term": "Frequency",
-        "definition": "The number of complete waves produced per second, or the number of complete waves passing a point per second. SI unit: hertz (Hz)."
+        "definition": "The number of complete waves produced per second, or the number of complete waves passing a point per second.",
+        "keywords": [
+          "number",
+          "waves",
+          "second"
+        ]
       },
       {
         "term": "Wave speed",
-        "definition": "The distance travelled by a wave per unit time. SI unit: m/s."
+        "definition": "The distance travelled by a wave per unit time.",
+        "keywords": [
+          "distance",
+          "time"
+        ]
       },
       {
         "term": "Wavefront",
-        "definition": "An imaginary line joining all adjacent points that are in phase."
+        "definition": "An imaginary line joining all adjacent points that are in phase.",
+        "keywords": [
+          "line",
+          "adjacent",
+          "phase"
+        ]
       },
       {
         "term": "Compression",
-        "definition": "A region in a longitudinal wave where particles are closer together than normal (higher pressure region)."
+        "definition": "A region in a longitudinal wave where particles are closer together than normal (higher pressure region).",
+        "keywords": [
+          "longitudinal",
+          "particles",
+          "closer",
+          "pressure"
+        ]
       },
       {
         "term": "Rarefaction",
-        "definition": "A region in a longitudinal wave where particles are further apart than normal (lower pressure region)."
+        "definition": "A region in a longitudinal wave where particles are further apart than normal (lower pressure region).",
+        "keywords": [
+          "longitudinal",
+          "particles",
+          "apart",
+          "pressure"
+        ]
       }
     ]
   },
@@ -337,31 +716,70 @@
     "terms": [
       {
         "term": "Uses of radio waves",
-        "definition": "Radios, televisions, telecommunications, radar, RFID tags."
+        "definition": "Radios, televisions, telecommunications, radar, RFID tags.",
+        "keywords": [
+          "radio",
+          "television",
+          "telecommunications",
+          "radar"
+        ]
       },
       {
         "term": "Uses of microwaves",
-        "definition": "Microwave ovens, satellite communication, mobile phones."
+        "definition": "Microwave ovens, satellite communication, mobile phones.",
+        "keywords": [
+          "satellite",
+          "communication",
+          "phones"
+        ]
       },
       {
         "term": "Uses of infrared radiation",
-        "definition": "Remote controllers, ear thermometers, night vision goggles, intruder alarms."
+        "definition": "Remote controllers, ear thermometers, night vision goggles, intruder alarms.",
+        "keywords": [
+          "remote",
+          "thermometers",
+          "vision",
+          "alarms"
+        ]
       },
       {
         "term": "Uses of visible light",
-        "definition": "Optical fibres, photography."
+        "definition": "Optical fibres, photography.",
+        "keywords": [
+          "optical",
+          "fibres",
+          "photography"
+        ]
       },
       {
         "term": "Uses of ultraviolet radiation",
-        "definition": "Sun beds, sterilisation of hospital equipment, disinfecting water, bank note authentication."
+        "definition": "Sun beds, sterilisation of hospital equipment, disinfecting water, bank note authentication.",
+        "keywords": [
+          "sterilisation",
+          "disinfecting",
+          "authentication"
+        ]
       },
       {
         "term": "Uses of X-rays",
-        "definition": "Medical radiology, CT scans, security screening, industrial defect detection."
+        "definition": "Medical radiology, CT scans, security screening, industrial defect detection.",
+        "keywords": [
+          "radiology",
+          "scans",
+          "screening",
+          "defect"
+        ]
       },
       {
         "term": "Uses of gamma radiation",
-        "definition": "Cancer treatment (radiation therapy), sterilisation of food."
+        "definition": "Cancer treatment (radiation therapy), sterilisation of food.",
+        "keywords": [
+          "cancer",
+          "treatment",
+          "sterilisation",
+          "food"
+        ]
       }
     ]
   },
@@ -371,23 +789,45 @@
     "terms": [
       {
         "term": "Sound",
-        "definition": "A longitudinal wave travelling in the air, created by a vibrating source."
+        "definition": "A longitudinal wave travelling in the air, created by a vibrating source.",
+        "keywords": [
+          "longitudinal",
+          "vibrating",
+          "source"
+        ]
       },
       {
         "term": "Infrasound",
-        "definition": "Frequencies below 20 Hz."
+        "definition": "Frequencies below 20 Hz.",
+        "keywords": [
+          "frequencies",
+          "below"
+        ]
       },
       {
         "term": "Ultrasound",
-        "definition": "Frequencies above 20 000 Hz."
+        "definition": "Frequencies above 20 000 Hz.",
+        "keywords": [
+          "frequencies",
+          "above"
+        ]
       },
       {
         "term": "Echo",
-        "definition": "The repetition of a sound due to the reflection of sound."
+        "definition": "The repetition of a sound due to the reflection of sound.",
+        "keywords": [
+          "reflection",
+          "sound"
+        ]
       },
       {
         "term": "Echolocation",
-        "definition": "The location of objects using reflected sound."
+        "definition": "The location of objects using reflected sound.",
+        "keywords": [
+          "location",
+          "reflected",
+          "sound"
+        ]
       }
     ]
   },
@@ -397,43 +837,103 @@
     "terms": [
       {
         "term": "First law of reflection",
-        "definition": "States that the incident ray, reflected ray and the normal at the point of incidence lie in the same plane."
+        "definition": "States that the incident ray, reflected ray and the normal at the point of incidence lie in the same plane.",
+        "keywords": [
+          "incident",
+          "reflected",
+          "normal",
+          "plane"
+        ]
       },
       {
         "term": "Second law of reflection",
-        "definition": "States that the angle of incidence is equal to the angle of reflection."
+        "definition": "States that the angle of incidence is equal to the angle of reflection.",
+        "keywords": [
+          "angle",
+          "incidence",
+          "equal",
+          "reflection"
+        ]
       },
       {
         "term": "Refraction",
-        "definition": "The bending of light as it passes from one medium to another, caused by a change in the speed of light."
+        "definition": "The bending of light as it passes from one medium to another, caused by a change in the speed of light.",
+        "keywords": [
+          "bending",
+          "medium",
+          "speed"
+        ]
       },
       {
         "term": "First law of refraction",
-        "definition": "States that the incident ray, refracted ray and the normal at the point of incidence all lie in the same plane."
+        "definition": "States that the incident ray, refracted ray and the normal at the point of incidence all lie in the same plane.",
+        "keywords": [
+          "incident",
+          "refracted",
+          "normal",
+          "plane"
+        ]
       },
       {
         "term": "Second law of refraction",
-        "definition": "States that for two given media, the ratio of the sine of angle of incidence to the sine of the angle of refraction is a constant."
+        "definition": "States that for two given media, the ratio of the sine of angle of incidence to the sine of the angle of refraction is a constant.",
+        "keywords": [
+          "ratio",
+          "sine",
+          "incidence",
+          "refraction",
+          "constant"
+        ]
       },
       {
         "term": "Refractive index",
-        "definition": "Defined as the ratio of the speed of light in a vacuum to the speed of light in that medium."
+        "definition": "Defined as the ratio of the speed of light in a vacuum to the speed of light in that medium.",
+        "keywords": [
+          "ratio",
+          "speed",
+          "vacuum",
+          "medium"
+        ]
       },
       {
         "term": "Principle of reversibility of light rays",
-        "definition": "States that regardless of how many times a light ray has been reflected or refracted, it will follow the same path when its direction is reversed."
+        "definition": "States that regardless of how many times a light ray has been reflected or refracted, it will follow the same path when its direction is reversed.",
+        "keywords": [
+          "path",
+          "direction",
+          "reversed"
+        ]
       },
       {
         "term": "Critical angle",
-        "definition": "Defined as the angle of incidence in an optically denser medium for which the angle of refraction in the less dense medium is 90 degrees."
+        "definition": "Defined as the angle of incidence in an optically denser medium for which the angle of refraction in the less dense medium is 90 degrees.",
+        "keywords": [
+          "incidence",
+          "denser",
+          "refraction",
+          "90"
+        ]
       },
       {
         "term": "Total internal reflection",
-        "definition": "Occurs when light travelling from an optically denser medium hits the boundary at an angle of incidence greater than or equal to the critical angle, causing the light to be completely reflected back into the denser medium."
+        "definition": "Occurs when light travelling from an optically denser medium hits the boundary at an angle of incidence greater than or equal to the critical angle, causing the light to be completely reflected back into the denser medium.",
+        "keywords": [
+          "denser",
+          "boundary",
+          "critical",
+          "angle",
+          "reflected"
+        ]
       },
       {
         "term": "Focal length",
-        "definition": "The distance between the optical centre and the principal focus point."
+        "definition": "The distance between the optical centre and the principal focus point.",
+        "keywords": [
+          "optical",
+          "centre",
+          "principal",
+          "focus"
+        ]
       }
     ]
   },
@@ -443,11 +943,20 @@
     "terms": [
       {
         "term": "Law of electrostatics",
-        "definition": "Like (same) charges repel; unlike (different) charges attract."
+        "definition": "Like (same) charges repel; unlike (different) charges attract.",
+        "keywords": [
+          "repel",
+          "attract"
+        ]
       },
       {
         "term": "Electric field",
-        "definition": "A region of space in which an electric charge experiences an electric force. The direction of the field is the direction of force acting on a positive test charge."
+        "definition": "A region of space in which an electric charge experiences an electric force. The direction of the field is the direction of force acting on a positive test charge.",
+        "keywords": [
+          "charge",
+          "force",
+          "positive"
+        ]
       }
     ]
   },
@@ -457,31 +966,65 @@
     "terms": [
       {
         "term": "Electric current",
-        "definition": "The amount of electric charge passing through a point per unit time. SI unit: ampere (A)."
+        "definition": "The amount of electric charge passing through a point per unit time.",
+        "keywords": [
+          "charge",
+          "time"
+        ]
       },
       {
         "term": "Electromotive force (e.m.f)",
-        "definition": "The work done by an electrical energy source in driving a unit charge around a complete circuit. SI unit: volt (V)."
+        "definition": "The work done by an electrical energy source in driving a unit charge around a complete circuit.",
+        "keywords": [
+          "work",
+          "charge",
+          "circuit"
+        ]
       },
       {
         "term": "Potential difference (p.d.)",
-        "definition": "The work done per unit charge to drive charge through a component in a circuit. SI unit: volt (V)."
+        "definition": "The work done per unit charge to drive charge through a component in a circuit.",
+        "keywords": [
+          "work",
+          "charge",
+          "component"
+        ]
       },
       {
         "term": "Resistance",
-        "definition": "The ratio of the potential difference across it to the current flowing through it."
+        "definition": "The ratio of the potential difference across it to the current flowing through it.",
+        "keywords": [
+          "potential",
+          "difference",
+          "current"
+        ]
       },
       {
         "term": "Ohm's Law",
-        "definition": "States that the current through a metallic conductor is directly proportional to the potential difference across it, provided physical conditions (e.g. temperature) remain constant."
+        "definition": "States that the current through a metallic conductor is directly proportional to the potential difference across it, provided physical conditions (e.g. temperature) remain constant.",
+        "keywords": [
+          "proportional",
+          "potential",
+          "difference",
+          "constant"
+        ]
       },
       {
         "term": "Thermistor",
-        "definition": "A non-ohmic resistor whose resistance decreases as its temperature increases."
+        "definition": "A non-ohmic resistor whose resistance decreases as its temperature increases.",
+        "keywords": [
+          "resistance",
+          "temperature"
+        ]
       },
       {
         "term": "Light-dependent resistor (LDR)",
-        "definition": "A non-ohmic resistor whose resistance decreases as light intensity increases."
+        "definition": "A non-ohmic resistor whose resistance decreases as light intensity increases.",
+        "keywords": [
+          "resistance",
+          "light",
+          "intensity"
+        ]
       }
     ]
   },
@@ -491,35 +1034,74 @@
     "terms": [
       {
         "term": "Power",
-        "definition": "The rate of transfer of electrical energy. P = IV = V²/R = I²R. SI unit: watt (W)."
+        "definition": "The rate of transfer of electrical energy.",
+        "keywords": [
+          "rate",
+          "electrical",
+          "energy"
+        ]
       },
       {
         "term": "Kilowatt-hour (kWh)",
-        "definition": "A unit of electrical energy. 1 kWh = 3 600 000 J (3.6 MJ)."
+        "definition": "A unit of electrical energy. 1 kWh = 3 600 000 J (3.6 MJ).",
+        "keywords": [
+          "electrical",
+          "energy"
+        ]
       },
       {
         "term": "Live wire",
-        "definition": "The brown wire in a 3-pin plug. It is at high voltage and carries current from the source to the appliance."
+        "definition": "The brown wire in a 3-pin plug. It is at high voltage and carries current from the source to the appliance.",
+        "keywords": [
+          "brown",
+          "voltage",
+          "current"
+        ]
       },
       {
         "term": "Neutral wire",
-        "definition": "The blue wire in a 3-pin plug. It is at 0 V and completes the circuit back to the source."
+        "definition": "The blue wire in a 3-pin plug. It is at 0 V and completes the circuit back to the source.",
+        "keywords": [
+          "blue",
+          "circuit"
+        ]
       },
       {
         "term": "Earth wire",
-        "definition": "The green/yellow wire in a 3-pin plug. It connects the metal casing of an appliance to earth as a safety measure."
+        "definition": "The green/yellow wire in a 3-pin plug. It connects the metal casing of an appliance to earth as a safety measure.",
+        "keywords": [
+          "casing",
+          "earth",
+          "safety"
+        ]
       },
       {
         "term": "Fuse",
-        "definition": "A safety device connected in series on the live wire. Its wire melts and breaks the circuit if the current exceeds the fuse rating."
+        "definition": "A safety device connected in series on the live wire. Its wire melts and breaks the circuit if the current exceeds the fuse rating.",
+        "keywords": [
+          "melts",
+          "circuit",
+          "current",
+          "rating"
+        ]
       },
       {
         "term": "Circuit breaker",
-        "definition": "A safety device that automatically cuts off the current supply when the current exceeds a set value."
+        "definition": "A safety device that automatically cuts off the current supply when the current exceeds a set value.",
+        "keywords": [
+          "current",
+          "exceeds",
+          "value"
+        ]
       },
       {
         "term": "Double insulation",
-        "definition": "A safety feature where an appliance has two layers of insulation around live parts, so no earth wire is needed."
+        "definition": "A safety feature where an appliance has two layers of insulation around live parts, so no earth wire is needed.",
+        "keywords": [
+          "insulation",
+          "layers",
+          "earth"
+        ]
       }
     ]
   },
@@ -529,23 +1111,50 @@
     "terms": [
       {
         "term": "Magnetic field",
-        "definition": "The region around a magnet or moving electric charge in which a force of magnetism acts."
+        "definition": "The region around a magnet or moving electric charge in which a force of magnetism acts.",
+        "keywords": [
+          "magnet",
+          "charge",
+          "force",
+          "magnetism"
+        ]
       },
       {
         "term": "Law of magnetism",
-        "definition": "Like poles repel; unlike poles attract."
+        "definition": "Like poles repel; unlike poles attract.",
+        "keywords": [
+          "poles",
+          "repel",
+          "attract"
+        ]
       },
       {
         "term": "Test for magnetism",
-        "definition": "A magnet can only be confirmed by repulsion with another known magnet; attraction alone is inconclusive."
+        "definition": "A magnet can only be confirmed by repulsion with another known magnet; attraction alone is inconclusive.",
+        "keywords": [
+          "repulsion",
+          "attraction",
+          "inconclusive"
+        ]
       },
       {
         "term": "Soft magnetic materials",
-        "definition": "Magnetic materials (e.g. iron) that are easily magnetised and demagnetised, have stronger induced magnetism, and are used for temporary magnets such as electromagnets."
+        "definition": "Magnetic materials (e.g. iron) that are easily magnetised and demagnetised, have stronger induced magnetism, and are used for temporary magnets such as electromagnets.",
+        "keywords": [
+          "magnetised",
+          "demagnetised",
+          "temporary",
+          "electromagnets"
+        ]
       },
       {
         "term": "Hard magnetic materials",
-        "definition": "Magnetic materials (e.g. steel) that are not easily magnetised or demagnetised, have weaker induced magnetism, and are used for permanent magnets."
+        "definition": "Magnetic materials (e.g. steel) that are not easily magnetised or demagnetised, have weaker induced magnetism, and are used for permanent magnets.",
+        "keywords": [
+          "magnetised",
+          "demagnetised",
+          "permanent"
+        ]
       }
     ]
   },
@@ -555,31 +1164,83 @@
     "terms": [
       {
         "term": "Magnetic flux",
-        "definition": "The number of magnetic field lines passing through a given area of a coil."
+        "definition": "The number of magnetic field lines passing through a given area of a coil.",
+        "keywords": [
+          "field",
+          "lines",
+          "area",
+          "coil"
+        ]
       },
       {
         "term": "Faraday's Law of electromagnetic induction",
-        "definition": "States that when there is a change in magnetic flux linked to a circuit, an e.m.f. is induced that is proportional to the rate of change of magnetic flux."
+        "definition": "States that when there is a change in magnetic flux linked to a circuit, an e.m.f. is induced that is proportional to the rate of change of magnetic flux.",
+        "keywords": [
+          "flux",
+          "induced",
+          "proportional",
+          "rate",
+          "change"
+        ]
       },
       {
         "term": "Lenz's Law",
-        "definition": "States that an induced current flows in a direction such that it opposes the change in magnetic flux that induced it."
+        "definition": "States that an induced current flows in a direction such that it opposes the change in magnetic flux that induced it.",
+        "keywords": [
+          "induced",
+          "current",
+          "opposes",
+          "flux"
+        ]
       },
       {
         "term": "AC generator",
-        "definition": "A device that converts mechanical energy into electrical energy by rotating a coil in a magnetic field, producing an alternating current via electromagnetic induction."
+        "definition": "A device that converts mechanical energy into electrical energy by rotating a coil in a magnetic field, producing an alternating current via electromagnetic induction.",
+        "keywords": [
+          "mechanical",
+          "electrical",
+          "rotating",
+          "coil",
+          "alternating",
+          "induction"
+        ]
       },
       {
         "term": "Transformer",
-        "definition": "A device that uses electromagnetic induction to increase or decrease an alternating voltage, consisting of primary and secondary coils wound on a laminated soft iron core."
+        "definition": "A device that uses electromagnetic induction to increase or decrease an alternating voltage, consisting of primary and secondary coils wound on a laminated soft iron core.",
+        "keywords": [
+          "induction",
+          "alternating",
+          "voltage",
+          "primary",
+          "secondary",
+          "coils",
+          "iron",
+          "core"
+        ]
       },
       {
         "term": "Step-up transformer",
-        "definition": "A transformer in which the secondary coil has more turns than the primary coil, resulting in a higher output voltage and lower output current."
+        "definition": "A transformer in which the secondary coil has more turns than the primary coil, resulting in a higher output voltage and lower output current.",
+        "keywords": [
+          "secondary",
+          "turns",
+          "primary",
+          "voltage",
+          "current"
+        ]
       },
       {
         "term": "Step-down transformer",
-        "definition": "A transformer in which the secondary coil has fewer turns than the primary coil, resulting in a lower output voltage and higher output current."
+        "definition": "A transformer in which the secondary coil has fewer turns than the primary coil, resulting in a lower output voltage and higher output current.",
+        "keywords": [
+          "secondary",
+          "fewer",
+          "turns",
+          "primary",
+          "voltage",
+          "current"
+        ]
       }
     ]
   },
@@ -589,67 +1250,152 @@
     "terms": [
       {
         "term": "Radioactivity",
-        "definition": "The spontaneous and random disintegration of an unstable nucleus to form a more stable nucleus by the emission of alpha particles, beta particles, or gamma rays."
+        "definition": "The spontaneous and random disintegration of an unstable nucleus to form a more stable nucleus by the emission of alpha particles, beta particles, or gamma rays.",
+        "keywords": [
+          "spontaneous",
+          "random",
+          "unstable",
+          "nucleus",
+          "emission"
+        ]
       },
       {
         "term": "Nuclide",
-        "definition": "A specific atomic nucleus characterised by a certain number of protons and neutrons."
+        "definition": "A specific atomic nucleus characterised by a certain number of protons and neutrons.",
+        "keywords": [
+          "protons",
+          "neutrons"
+        ]
       },
       {
         "term": "Alpha particle",
-        "definition": "A particle consisting of 2 protons and 2 neutrons, identical in composition to a helium nucleus, emitted during alpha decay."
+        "definition": "A particle consisting of 2 protons and 2 neutrons, identical in composition to a helium nucleus, emitted during alpha decay.",
+        "keywords": [
+          "protons",
+          "neutrons",
+          "helium",
+          "nucleus"
+        ]
       },
       {
         "term": "Alpha decay",
-        "definition": "A type of nuclear decay in which an unstable nucleus emits an alpha particle; the proton number decreases by 2 and the nucleon number decreases by 4."
+        "definition": "A type of nuclear decay in which an unstable nucleus emits an alpha particle; the proton number decreases by 2 and the nucleon number decreases by 4.",
+        "keywords": [
+          "proton",
+          "decreases",
+          "nucleon"
+        ]
       },
       {
         "term": "Beta particle",
-        "definition": "A high-energy electron ejected from the nucleus during beta decay, formed when a neutron converts into a proton."
+        "definition": "A high-energy electron ejected from the nucleus during beta decay, formed when a neutron converts into a proton.",
+        "keywords": [
+          "electron",
+          "nucleus",
+          "neutron",
+          "proton"
+        ]
       },
       {
         "term": "Beta decay",
-        "definition": "A type of nuclear decay in which a neutron converts into a proton and emits a beta particle; the proton number increases by 1 and the nucleon number is unchanged."
+        "definition": "A type of nuclear decay in which a neutron converts into a proton and emits a beta particle; the proton number increases by 1 and the nucleon number is unchanged.",
+        "keywords": [
+          "neutron",
+          "proton",
+          "increases",
+          "unchanged"
+        ]
       },
       {
         "term": "Gamma decay",
-        "definition": "A type of nuclear decay in which an excited nucleus releases energy as gamma radiation; the proton number and nucleon number are unchanged."
+        "definition": "A type of nuclear decay in which an excited nucleus releases energy as gamma radiation; the proton number and nucleon number are unchanged.",
+        "keywords": [
+          "nucleus",
+          "gamma",
+          "unchanged"
+        ]
       },
       {
         "term": "Proton number (atomic number)",
-        "definition": "The number of protons in an atom."
+        "definition": "The number of protons in an atom.",
+        "keywords": [
+          "protons",
+          "atom"
+        ]
       },
       {
         "term": "Nucleon number (mass number)",
-        "definition": "The total number of neutrons and protons in the nucleus of an atom."
+        "definition": "The total number of neutrons and protons in the nucleus of an atom.",
+        "keywords": [
+          "neutrons",
+          "protons",
+          "nucleus"
+        ]
       },
       {
         "term": "Isotopes",
-        "definition": "Atoms of the same element that have the same number of protons but different numbers of neutrons."
+        "definition": "Atoms of the same element that have the same number of protons but different numbers of neutrons.",
+        "keywords": [
+          "protons",
+          "neutrons",
+          "element"
+        ]
       },
       {
         "term": "Nuclear decay",
-        "definition": "A random process by which an unstable atomic nucleus loses its energy by emission of electromagnetic radiation or particle(s)."
+        "definition": "A random process by which an unstable atomic nucleus loses its energy by emission of electromagnetic radiation or particle(s).",
+        "keywords": [
+          "unstable",
+          "nucleus",
+          "emission",
+          "radiation"
+        ]
       },
       {
         "term": "Ionising radiation",
-        "definition": "Radiation with sufficient energy to remove electrons from atoms, forming highly reactive ions."
+        "definition": "Radiation with sufficient energy to remove electrons from atoms, forming highly reactive ions.",
+        "keywords": [
+          "electrons",
+          "atoms",
+          "ions"
+        ]
       },
       {
         "term": "Background radiation",
-        "definition": "Refers to nuclear radiation in an environment where no radioactive source has been deliberately introduced."
+        "definition": "Refers to nuclear radiation in an environment where no radioactive source has been deliberately introduced.",
+        "keywords": [
+          "environment",
+          "radioactive",
+          "source"
+        ]
       },
       {
         "term": "Half-life",
-        "definition": "The time taken for half of the nuclei in a sample to decay."
+        "definition": "The time taken for half of the nuclei in a sample to decay.",
+        "keywords": [
+          "half",
+          "nuclei",
+          "decay"
+        ]
       },
       {
         "term": "Nuclear fission",
-        "definition": "A process in which the nucleus of an atom splits (usually into two parts) and releases a huge amount of energy."
+        "definition": "A process in which the nucleus of an atom splits (usually into two parts) and releases a huge amount of energy.",
+        "keywords": [
+          "nucleus",
+          "splits",
+          "energy"
+        ]
       },
       {
         "term": "Nuclear fusion",
-        "definition": "A process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy."
+        "definition": "A process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.",
+        "keywords": [
+          "nuclei",
+          "combine",
+          "heavier",
+          "energy"
+        ]
       }
     ]
   }

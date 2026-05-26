@@ -564,6 +564,17 @@ body {
 }
 
 /* =============================================
+   KEYBOARD HINT
+   ============================================= */
+.keyboard-hint {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin: 0.5rem 0 0;
+  letter-spacing: 0.01em;
+}
+
+/* =============================================
    RESPONSIVE
    ============================================= */
 @media (max-width: 768px) {
@@ -618,5 +629,189 @@ body {
   .landing-stats {
     flex-direction: column;
     align-items: center;
+  }
+}
+
+/* =============================================
+   MODE TOGGLE
+   ============================================= */
+.mode-toggle {
+  display: flex;
+  gap: 6px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 4px;
+}
+.mode-btn {
+  flex: 1;
+  padding: 7px 10px;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--duration) var(--ease);
+  white-space: nowrap;
+}
+.mode-btn:hover {
+  color: var(--text-primary);
+  background: var(--bg-glass-hover);
+}
+.mode-btn.active {
+  background: var(--accent-glow);
+  color: var(--accent-3);
+  border: 1px solid var(--border-active);
+}
+
+/* =============================================
+   TEST VIEW
+   ============================================= */
+.test-view {
+  width: 100%;
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  animation: fadeUp 0.45s var(--ease) both;
+}
+
+.test-stage {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+}
+
+.test-card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding: 36px;
+  border-radius: var(--radius-lg);
+  background: var(--bg-glass);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--border);
+  box-shadow:
+    0 4px 30px rgba(0,0,0,0.2),
+    inset 0 1px 0 rgba(255,255,255,0.04);
+  min-height: 320px;
+}
+
+.test-term-text {
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--text-primary);
+}
+
+.test-input {
+  width: 100%;
+  padding: 12px 14px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  resize: vertical;
+  transition: border-color var(--duration) var(--ease);
+}
+.test-input:focus {
+  outline: none;
+  border-color: var(--border-active);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+.test-input::placeholder {
+  color: var(--text-muted);
+}
+
+#test-input-area {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Result panel */
+.test-result {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  animation: fadeUp 0.25s var(--ease) both;
+}
+.test-result.pass {
+  background: var(--success-dim);
+  border-color: rgba(34, 197, 94, 0.25);
+}
+.test-result.fail {
+  background: rgba(239, 68, 68, 0.08);
+  border-color: rgba(239, 68, 68, 0.2);
+}
+.test-result-badge {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+.test-result.pass .test-result-badge {
+  color: var(--success);
+}
+.test-result.fail .test-result-badge {
+  color: #f87171;
+}
+
+.test-missing-list {
+  margin: 0;
+  padding: 0 0 0 18px;
+  font-size: 0.85rem;
+  color: #f87171;
+  line-height: 1.7;
+}
+
+.test-result-definition {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+.test-result-definition .card-text {
+  font-size: 0.95rem;
+  text-align: left;
+  color: var(--text-secondary);
+}
+
+/* No-keywords state */
+.test-no-keywords {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border-radius: var(--radius-md);
+  background: rgba(255,255,255,0.03);
+  border: 1px dashed var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .test-stage {
+    gap: 8px;
+  }
+  .test-card {
+    padding: 24px 20px;
+    min-height: 260px;
+  }
+  .test-term-text {
+    font-size: 1.1rem;
   }
 }

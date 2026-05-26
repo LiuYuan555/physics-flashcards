@@ -19,6 +19,10 @@
     </div>
     <nav id="chapter-nav" class="chapter-nav" aria-label="Chapters"></nav>
     <div class="sidebar-footer">
+      <div class="mode-toggle">
+        <button id="mode-study-btn" class="mode-btn active" title="Study mode">📖 Study</button>
+        <button id="mode-test-btn" class="mode-btn" title="Test mode">✏️ Test</button>
+      </div>
       <button id="shuffle-btn" class="btn btn-ghost" title="Shuffle cards">
         🔀 Shuffle
       </button>
@@ -109,6 +113,65 @@
           </button>
         </div>
       </div>
+      <p class="keyboard-hint">← → navigate &nbsp;·&nbsp; Space flip &nbsp;·&nbsp; Enter mark known</p>
+    </section>
+
+    <!-- Test view -->
+    <section id="test-view" class="test-view hidden">
+      <div class="flashcard-header">
+        <h2 id="test-chapter-title" class="chapter-title"></h2>
+        <div class="card-counter">
+          <span id="test-card-index">1</span> / <span id="test-card-total">0</span>
+        </div>
+      </div>
+
+      <div class="test-stage">
+        <button id="test-prev-btn" class="nav-arrow nav-arrow-left" aria-label="Previous card">
+          <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 6 9 14 15 22"/></svg>
+        </button>
+
+        <div class="test-card">
+          <span class="card-label">TERM</span>
+          <p id="test-term" class="test-term-text"></p>
+
+          <div id="test-input-area">
+            <textarea id="test-input" class="test-input" rows="4" placeholder="Type the definition…" aria-label="Your answer"></textarea>
+            <button id="test-submit-btn" class="btn btn-success">Submit</button>
+          </div>
+
+          <div id="test-result" class="test-result hidden">
+            <div id="test-result-badge" class="test-result-badge"></div>
+            <ul id="test-missing-list" class="test-missing-list hidden"></ul>
+            <div class="test-result-definition">
+              <span class="card-label">DEFINITION</span>
+              <p id="test-real-def" class="card-text"></p>
+            </div>
+          </div>
+
+          <div id="test-no-keywords" class="test-no-keywords hidden">
+            <p>No test available for this term yet.</p>
+          </div>
+        </div>
+
+        <button id="test-next-btn" class="nav-arrow nav-arrow-right" aria-label="Next card">
+          <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 6 19 14 13 22"/></svg>
+        </button>
+      </div>
+
+      <div class="flashcard-footer">
+        <div class="chapter-progress">
+          <div class="progress-bar-track">
+            <div id="test-chapter-progress-bar" class="progress-bar-fill"></div>
+          </div>
+          <span id="test-chapter-progress-text" class="progress-label"></span>
+        </div>
+        <div class="flashcard-actions">
+          <button id="test-reset-btn" class="btn btn-ghost" title="Reset chapter progress">
+            🔄 Reset
+          </button>
+        </div>
+      </div>
+      <p class="keyboard-hint">← → navigate &nbsp;·&nbsp; Enter submit &nbsp;·&nbsp; Shift+Enter new line</p>
     </section>
   </main>
 
